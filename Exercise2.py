@@ -1,3 +1,5 @@
+#Given the watchers age and movie rating, determine if they can watch the movie
+
 watchers_age = int(input("Enter users age: "))
 movies_rating = input("Enter the movie rating (G,PG,PG-13,R): ")
 
